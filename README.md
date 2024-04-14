@@ -1,6 +1,6 @@
 <h1 id="top">Справочник по языку программирования MatLab</h1>
 
-<img src="https://github.com/BogdanKlimov11/MatLab_course/assets/136115919/096d6120-9e1e-4b8b-bfd0-2b07fe39b9be" alt="MatLab logo" title="MatLab" width="100%" height="auto">
+<img src="https://github.com/BogdanKlimov11/MatLab_course/assets/136115919/ee0d6af7-8e06-4227-885c-fc03375902cd" alt="MatLab logo" title="MatLab" width="100%" height="auto">
 
 ---
 
