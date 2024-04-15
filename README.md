@@ -476,7 +476,8 @@ a2, a3, ...$
 
 `colormap` - палитра задание палитры: 
 
-* `winter` `spring` `summer` `autumn` `bone` `copper` `hot` `cool` `gray` `pink` и др.
+* `winter`, `spring`, `summer`, `autumn`, `bone`, `copper`, `hot`, `cool`, `gray`, `pink`,
+  и др.
 
 `colorbar` - отображение цветовой шкалы 
 
