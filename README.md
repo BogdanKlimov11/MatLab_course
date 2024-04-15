@@ -520,6 +520,21 @@ a2, a3, ...$
 `ezplot3(’x(t)’, ’y(t)’, ’z(t)’, a, b)` - график линии $x = x(t)$, $y = y(t)$, $z = z(t)$, 
 $a ≤ t ≤ b$
 
+`ezmesh(’f(x, y)’, [a, b, c, d])` - "проволочная" поверхность $z = f(x, y)$, $a ≤ x ≤ b$, 
+$c ≤ y ≤ d$ 
+
+`ezsurf(’f(x, y)’, [a, b, c, d])` - закрашенная поверхность 
+
+`ezmesh(’x(u, v)’, ’y(u, v)’, ’z(u, v)’, [a, b, c, d])`, `ezsurf(’x(u, v)’, ’y(u, v)’, 
+’z(u, v)’, [a, b, c, d])` - поверхность $x = x(u, v)$, $y = y(u, v)$, $z = z(u, v)$, $a ≤ u 
+≤ b$, $c ≤ v ≤ d$ 
+
+`ezsurf(’f(x, y)’, [a, b, c, d])` - закрашенная поверхность 
+
+`ezcontour(’f(x, y)’, [a, b, c, d])` - линии уровня 
+
+`ezpolar(’r(phi)’, [a, b])` - график $r = r(phi)$, $a ≤ phi ≤ b$ (в полярных координатах)
+
 ---
 
 <!-- Contacts -->
