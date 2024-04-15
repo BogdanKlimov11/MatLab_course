@@ -324,9 +324,9 @@ $$
 
 `linspace(a, b, n)` - вектор из $n$ равномерно отстоящих узлов от $a$ до $b$ 
 
-`logspace(a, b)` - эквивалентно $10.^linspace(a, b, 50)$ 
+`logspace(a, b)` - эквивалентно $10.$^ $linspace(a, b, 50)$ 
 
-`logspace(a, b, n)` - эквивалентно $10.^linspace(a, b, n)$ 
+`logspace(a, b, n)` - эквивалентно $10.$^ $linspace(a, b, n)$ 
 
 `tril(A)` - нижнетреугольная часть матрицы 
 
